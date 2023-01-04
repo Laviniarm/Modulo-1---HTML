@@ -1,0 +1,17 @@
+body {
+	background-color: white;
+	font-family: Verdana;
+	width: 900px;
+	margin: auto;
+}
+.photo{
+    border: 2px solid rgb(28, 152, 156);
+    border-radius: 0%;
+	margin: auto;
+	width: 80%;
+
+}
+
+#title, .subtitle, .post_title {
+	color: rgb(28, 152, 156);
+}
